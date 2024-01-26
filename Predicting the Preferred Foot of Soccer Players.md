@@ -18,7 +18,7 @@ like age, skill moves, weak foot proficiency, and performance metrics in areas s
 passing, dribbling, defending, physical ability, overall player status, and the player's preferred foot. In total,
 the dataset comprises approximately 160,000 records. To ensure data quality and consistency, essential
 preprocessing was applied, including encoding the preferred foot as 0 for "Left" and 1 for "Right." Moreover,
-any records with missing data in the shooting column were meticulously removed from the dataset
+any records with missing data in the shooting column were meticulously removed from the dataset.
 
 [**A link for FC24 Players DataSet**](https://www.kaggle.com/datasets/stefanoleone992/ea-sports-fc-24-complete-player-dataset)
 
