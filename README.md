@@ -20,6 +20,11 @@ the dataset comprises approximately 160,000 records. To ensure data quality and 
 preprocessing was applied, including encoding the preferred foot as 0 for "Left" and 1 for "Right." Moreover,
 any records with missing data in the shooting column were meticulously removed from the dataset.
 
+[**A link for FC24 Players DataSet**](https://www.kaggle.com/datasets/stefanoleone992/ea-sports-fc-24-complete-player-dataset)
+
+
+[**FUT Website**](https://www.fut.gg/)
+
 ![1](https://github.com/amido84/Deep-Learning/assets/71293836/26c2f7c3-d770-43e2-a56d-895bb90fa272)
 
 ![Screen Shot 2024-01-26 at 07 16 55 AM](https://github.com/amido84/Deep-Learning/assets/71293836/19f64650-1043-471d-aa55-10d8bd59a6db)
