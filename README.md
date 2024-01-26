@@ -79,11 +79,11 @@ Two DNN models were created, one with dropout layers and one without:
     
 ![Screen Shot 2024-01-26 at 07 19 31 AM](https://github.com/amido84/Deep-Learning/assets/71293836/87e936d4-00ec-407c-a71f-476f8d576443)
 
-*	DNN with Dropout:
-  - Training Accuracy: 0.76
-  - Validation Accuracy: 0.75
-  - Test Accuracy: 0.76
-  - Precision, Recall, and F1 Score: 0.76, 0.98, and 0.86, respectively
+* DNN with Dropout:
+   - Training Accuracy: 0.76
+   - Validation Accuracy: 0.75
+   - Test Accuracy: 0.76
+   - Precision, Recall, and F1 Score: 0.76, 0.98, and 0.86, respectively
     
 ![Screen Shot 2024-01-26 at 07 20 11 AM](https://github.com/amido84/Deep-Learning/assets/71293836/45ca9692-b6de-4a6c-95a3-6055ca3c3e03)
 
