@@ -1,3 +1,5 @@
+![Screen Shot 2024-01-26 at 09 14 04 AM](https://github.com/amido84/Deep-Learning/assets/71293836/e328ee27-2022-4ddb-87f3-43b7809ed465)
+
 # Predicting the Preferred Foot of Soccer Players
 
 ### Introduction
